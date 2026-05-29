@@ -1,2 +1,2 @@
-# coshh-addin  
+# hsg-addin  
 
