@@ -1,5 +1,5 @@
 // HSG258 LEV Report Recommendations 
-// Structure: HSG_DATA[sectionName] = [ { id, label, text }, ... ]
+// Structure: HSG_DATA[sectionName] = [ { id, label, text }, ... ] 
 
 const HSG_DATA = {
 
